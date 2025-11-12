@@ -26,7 +26,6 @@ An interactive React application for generating and visualizing dynamic bar grap
 ```bash
 # Clone the repository
 git clone https://github.com/bansal02/bar-graph-generator.git
-cd frontend
 
 # Install dependencies
 npm install
