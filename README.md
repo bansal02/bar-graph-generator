@@ -115,8 +115,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-Your Name
-
----
-
-**Built with React ⚛️ and Material UI 💙**
+Akshay Agarwal
